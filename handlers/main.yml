@@ -1,0 +1,17 @@
+---
+# handlers file for cis-ubuntu-ansible
+#sshd
+#Grub
+#auditd
+- name: grub restart
+  command: update-grub
+- name: auditd restart
+  service:
+    name: auditd
+    state: restarted
+- name: audit rules load
+  shell: /sbin/augenrules --load && true || true
+- name: sshd restart
+  service:
+    name: sshd
+    state: restarted
