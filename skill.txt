@@ -1,0 +1,72 @@
+Expertise in Configuration Management, Cloud Infrastructure, Automation with Microsoft Azure, GitHub.
+Working as IaC code expert using terraform, ARM Template and Powershell
+Expertise in ARM template development and deployment.
+CI/CD implementation of Azure Service deployment using Azure DevOps.
+Experience in source code management and version control using git.
+Expertise in writing terraform code for create and manage infrastructure.
+Expertise in writing scalable, orchestrated terraform templates to deploy azure resources with different provisioners.
+Deployment, management, and administration of AKS Cluster and Container Services application.
+Integrate AKS with Azure AD for active directory authentication and ACR for image repository
+Knowledge on implementing and provision of cloud resources from AKS using azure API & YAML.
+Deploy applications in AKS cluster, scalability of pods and Implementing RBAC for AKS cluster.
+Writing PowerShell and batch file scripts as per requirement.
+Experience in Custom Imaging packaging tool Packer.
+Building pre-configured application Azure Custom images using packer.
+Experience in Powershell scripting for automation.
+ Manage, Configuration and Administration of SQL Database
+ Experience in SettingUp Monitoring, Logging and Alerting for Azure Resource.
+ Basic Knowledge Docker and creating Docker Images.
+
+---
+Development and Deployment of Azure Services using IaC tools such as Terraform, ARM Template and PowerShell.
+Expertise in writing ARM template/terraform to deploy the resources on Microsoft Azure using Azure DevOps Pipeline.
+Expertise in writing Terraform code to deploy and manage Azure IaaS and PaaS services.
+Development and deployment PowerShell/ARM templates/Terraform modules for Compute Services such as VM, VMSS, Images, Storage, Disks etc.
+Development and deployment PowerShell/ARM templates/Terraform for deploying PaaS Services like AppService’s, Azure SQL, Logic Apps, Service bus, Event Hub etc.
+Development and deployment Power shell/ARM templates/Terraform for deploying network services Like VNET, Subnet, UDR, NSG, Application Gateway, S2S VPN, Load Balancer etc.
+Implemented Hub and Spoke Model for network service.
+Protecting PaaS resources with Firewall and Network Securities.
+Managing and Implementing RBAC and Identity Management.
+Creating and Managing Service Principals/App Registrations and Assigning for Subscriptions/Resources using IaC Tools.
+Responsible for Developing automation scripts using Power shell and power shell workflow in Azure Automation Account. 
+Deployment, management, and administration of AKS Cluster and Container Services application.
+Deployment of AKS resources such as deployments, pods, services, secrets, replica sets using terraform, YAML etc.
+Provision of AKS cluster & Implement of RBAC model for the AKS Cluster.
+Expertise in creating custom images for azure using packer.
+
+
+Working on azure services like azure datafactory , functionApp and Logic App etc.
+Setup CI/CD in azure Devops and integrate with azure cloud.
+Setup Salesforce deployment using azure devops.
+End to End automation for integrating all the services.
+Migrated On-premise Jenkin application to Azure Cloud.
+Re-Engineering Jenkins pipeline jobs.
+Migrated On-premise Artifactory to Azure Cloud Server.
+Migrated TFS to Azure Cloud
+Install and Configure Fisheye.
+Troubleshooting system and application level issues.
+Install and configure CI/CD build pipeline setup in GoCD, Teamcity and ADO
+Service now integration with Azure Devops.
+
+Centralized Log analysis of the micro services applications using ELK stack. 
+Working on azure services like azure datafactory , functionApp and Logic App etc.
+Setup CI/CD in azure Devops and integrate with azure cloud.
+
+
+SKILLS:
+LINUX SERVER ADMINISTRATION, 
+ANSIBLE - CONFIGURATION MANAGEMENT TOOL,
+REDHAT ANSIBLE TOWER & AWX (Open source) 
+DOCKER CONTAINERIZATION & DOCKER HUB
+GITLAB/GITHUB AND JENKINS – CI/CD TOOL
+IBM-TSM(TS3500 AND TS3310 LIBRARY).
+Hand-on experience in infra related tasks AWS and GOOGLE CLOUD PLATFORM..
+
+ RESPONSIBILITY:
+Configured and Managed the Ansible Tower for storing the Yaml playbooks and to provide the API's.
+ Maintaining the Git repository and helping the development team to push the code to the git repository.
+Troubleshooting the Linux OS related issues
+ Enabling the CI/CD pipeline through the Jenkins tool and doing the administrative tasks in the tool.
+ Creating the docker images with help of writing docker file for developed code.
+ Technically understanding the requirements from the customer and checking the feasibility from the different tools and making the solution part.
+ Done the solution part through ansible tool for the MFDM team.
